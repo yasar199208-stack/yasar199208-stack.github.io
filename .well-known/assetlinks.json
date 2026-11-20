@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nobetarasi.app",
+      "sha256_cert_fingerprints":
+        ["8D:55:99:DB:4D:D7:D8:03:E2:A9:4F:59:DF:DE:AD:46:38:BD:E4:C5:54:02:74:BA:0C:16:B9:B7:FC:8D:DA:06"]
+    }
+  }
+]
